@@ -1,0 +1,10 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Julio Dutra <julio.dutra@sumicity.net.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
